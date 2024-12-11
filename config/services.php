@@ -37,9 +37,9 @@ return [
 
     //uncomment this code
 
-    // 'openai' => [
-    //     'api_url' => env('AZURE_BOT_API_URL'),
-    //     'api_key' => env('AZURE_BOT_API_KEY'),
-    // ],
+    'openai' => [
+        'api_url' => env('https://ai-kelumtharinduse3661ai069126780447.openai.azure.com/'),
+        'api_key' => env('5rqT3HT7MLz9OdGTXrNMgnBuaakyEo2rDu8Gv1TyxrVXU2vPNWkyJQQJ99ALACHYHv6XJ3w3AAAAACOGF9jl'),
+    ],
 
 ];
